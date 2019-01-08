@@ -7,6 +7,11 @@
 - firefox( but the VPNs)
 
 ------------
-### uplay.txt for example
+### uplay.txt for example;
 
 ![](https://i.ibb.co/8xGrBFv/awfa.png)
+
+| Variable name | Description                    |
+| ------------- | ------------------------------ |
+| `sayac`       | uplay.txt start index(**first mail!**) |
+| `destroy()`   | **Destroy your computer!**     |
