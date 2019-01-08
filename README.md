@@ -9,5 +9,4 @@
 ------------
 ### uplay.txt for example
 
-![](https://i.ibb.co/4SC8fBv/awfa.png)
 ![](https://i.ibb.co/8xGrBFv/awfa.png)
