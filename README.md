@@ -9,4 +9,4 @@
 ------------
 ### uplay.txt for example
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://i.hizliresim.com/y649g0.png)
