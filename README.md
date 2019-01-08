@@ -11,7 +11,8 @@
 
 ![](https://i.ibb.co/8xGrBFv/awfa.png)
 
-| Variable name | Description                    |
+| Variable Name | Description                    |
 | ------------- | ------------------------------ |
-| `sayac`       | uplay.txt start index(**first mail!**) |
-| `destroy()`   | **Destroy your computer!**     |
+| `counter`       | uplay.txt start index(**first mail!**) |
+| `n_mail`   | email   |
+| `n_passw`   | password    |
