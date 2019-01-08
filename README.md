@@ -9,4 +9,4 @@
 ------------
 ### uplay.txt for example
 
-[![image](https://i.hizliresim.com/y649g0.png)](https://hizliresim.com/y649g0)
+[![image](https://i.hizliresim.com/P1Mz9v.png)](https://hizliresim.com/P1Mz9v)
