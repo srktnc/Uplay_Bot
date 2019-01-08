@@ -2,13 +2,13 @@ from selenium import webdriver
 import time
 counter=0
 def mail():
-     kp=open("uplaylar.txt","r")
+     kp=open("uplay.txt","r")
      for a in kp.readlines()[counter:counter+1]:
          pass
      return a
      
 def passw(): 
-     kp=open("uplaylar.txt","r")   
+     kp=open("uplay.txt","r")   
      for a in kp.readlines()[counter+1:counter+2]:
          pass
      return a
